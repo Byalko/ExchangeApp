@@ -2,6 +2,10 @@
     <string name="app_name">ExchangeApp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_exchange">Выберите валюту</string>
+    <string name="save_db">Saved %1$s</string>
+    <string name="ok">Ok</string>
+    <string name="no_saved_item">Нет сохраненных валют</string>
     <string-array name="country_code">
         <item>USD</item>
         <item>CAD</item>
